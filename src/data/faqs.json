@@ -1,0 +1,26 @@
+[
+    {
+        "question": "What is HireHub?",
+        "answer": "HireHub is a comprehensive job portal designed to help companies post job listings and enable users to search and apply for jobs. It offers advanced features for both job seekers and employers, including a user-friendly interface, secure authentication, and tools like an interview scheduler, application tracker, and skill assessments."
+    },
+    {
+        "question": "How do I post a job on HireHub?",
+        "answer": "As an employer, you can post a job by navigating to the 'Post Job' section after logging in. Fill in the job details, including the job title, description, and requirements, then submit the form to create a new job listing."
+    },
+    {
+        "question": "How can I search for jobs on HireHub?",
+        "answer": "Job seekers can search for jobs using keywords, location, category, and other filters. The search bar is available on the homepage and the dedicated job search page, providing an easy way to find relevant job opportunities."
+    },
+    {
+        "question": "How do I apply for a job on HireHub?",
+        "answer": "To apply for a job, click on the job listing and follow the application instructions. You may need to upload your resume and provide additional information as required by the employer."
+    },
+    {
+        "question": "Can I save jobs to apply later on HireHub?",
+        "answer": "Yes, you can save job listings by clicking the 'Save Job' button on the job listing page. Your saved jobs will be accessible from your profile under the 'Saved Jobs' section, allowing you to apply later at your convenience."
+    },
+    {
+        "question": "How do I track my job applications on HireHub?",
+        "answer": "You can track the status of your job applications from the 'Applications' section in your profile. This section provides real-time updates on the progress of each application, including interview scheduling and any further steps."
+    }
+]
